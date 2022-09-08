@@ -4,6 +4,8 @@
 
 The project is my final-exam project in 2018 AD. I refer to other projects. The references on the last page.
 
+- Deom video: https://www.youtube.com/watch?v=Lzten-ZHHqc
+
 # pacman3d
 pacman3d using Unity3D 2018.4.9f1
 
