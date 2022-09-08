@@ -1,6 +1,9 @@
 ![](https://img.shields.io/badge/unity-2018.4.9f1-%23000000) 
 ![](https://img.shields.io/badge/Unity%20Hub-2.2.0-%23000000)
 
+
+The project is my final-exam project in 2018 AD. I refer to other projects. The references on the last page.
+
 # pacman3d
 pacman3d using Unity3D 2018.4.9f1
 
@@ -20,4 +23,6 @@ pacman3d using Unity3D 2018.4.9f1
 ---
 
 ### ***Ref.***
+1. https://github.com/Nerconer/PACMAN3D
+1. https://www.udemy.com/course/unity-tutorial-pacman-3d/
 1. https://github.com/liorgonnen/pacman3d
