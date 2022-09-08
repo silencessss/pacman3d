@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 30103cbc1c0b4bc48974abbf3c001342
+timeCreated: 1464127166
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: lower.001
+    100004: lower.001_end
+    100006: lower.002
+    100008: lower.002_end
+    100010: lower.003
+    100012: lower.003_end
+    100014: lower.004
+    100016: lower.004_end
+    100018: lower.005
+    100020: lower.005_end
+    100022: lower.006
+    100024: lower.006_end
+    100026: lower.007
+    100028: lower.007_end
+    100030: lower.008
+    100032: lower.008_end
+    100034: lower.009
+    100036: lower.009_end
+    100038: lower.010
+    100040: lower.010_end
+    100042: lower.011
+    100044: lower.011_end
+    100046: lower.012
+    100048: lower.012_end
+    100050: lower.013
+    100052: lower.013_end
+    100054: lower.014
+    100056: lower.014_end
+    100058: lower.015
+    100060: lower.015_end
+    100062: //RootNode
+    100064: Sphere
+    100066: upper.001
+    100068: upper.001_end
+    100070: upper.002
+    100072: upper.002_end
+    100074: upper.003
+    100076: upper.003_end
+    100078: upper.004
+    100080: upper.004_end
+    100082: upper.005
+    100084: upper.005_end
+    100086: upper.006
+    100088: upper.006_end
+    100090: upper.007
+    100092: upper.007_end
+    100094: upper.008
+    100096: upper.008_end
+    100098: upper.009
+    100100: upper.009_end
+    100102: upper.010
+    100104: upper.010_end
+    100106: upper.011
+    100108: upper.011_end
+    100110: upper.012
+    100112: upper.012_end
+    100114: upper.013
+    100116: upper.013_end
+    100118: upper.014
+    100120: upper.014_end
+    100122: upper.015
+    100124: upper.015_end
+    400000: Armature
+    400002: lower.001
+    400004: lower.001_end
+    400006: lower.002
+    400008: lower.002_end
+    400010: lower.003
+    400012: lower.003_end
+    400014: lower.004
+    400016: lower.004_end
+    400018: lower.005
+    400020: lower.005_end
+    400022: lower.006
+    400024: lower.006_end
+    400026: lower.007
+    400028: lower.007_end
+    400030: lower.008
+    400032: lower.008_end
+    400034: lower.009
+    400036: lower.009_end
+    400038: lower.010
+    400040: lower.010_end
+    400042: lower.011
+    400044: lower.011_end
+    400046: lower.012
+    400048: lower.012_end
+    400050: lower.013
+    400052: lower.013_end
+    400054: lower.014
+    400056: lower.014_end
+    400058: lower.015
+    400060: lower.015_end
+    400062: //RootNode
+    400064: Sphere
+    400066: upper.001
+    400068: upper.001_end
+    400070: upper.002
+    400072: upper.002_end
+    400074: upper.003
+    400076: upper.003_end
+    400078: upper.004
+    400080: upper.004_end
+    400082: upper.005
+    400084: upper.005_end
+    400086: upper.006
+    400088: upper.006_end
+    400090: upper.007
+    400092: upper.007_end
+    400094: upper.008
+    400096: upper.008_end
+    400098: upper.009
+    400100: upper.009_end
+    400102: upper.010
+    400104: upper.010_end
+    400106: upper.011
+    400108: upper.011_end
+    400110: upper.012
+    400112: upper.012_end
+    400114: upper.013
+    400116: upper.013_end
+    400118: upper.014
+    400120: upper.014_end
+    400122: upper.015
+    400124: upper.015_end
+    4300000: Sphere
+    7400000: wakawaka
+    7400002: Armature|SphereAction
+    7400004: Armature|SphereAction.001
+    7400006: Sphere|SphereAction
+    7400008: Sphere|SphereAction.001
+    9500000: //RootNode
+    13700000: Sphere
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: wakawaka
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/lower.001
+        weight: 1
+      - path: Armature/lower.001/lower.001_end
+        weight: 1
+      - path: Armature/lower.002
+        weight: 1
+      - path: Armature/lower.002/lower.002_end
+        weight: 1
+      - path: Armature/lower.003
+        weight: 1
+      - path: Armature/lower.003/lower.003_end
+        weight: 1
+      - path: Armature/lower.004
+        weight: 1
+      - path: Armature/lower.004/lower.004_end
+        weight: 1
+      - path: Armature/lower.005
+        weight: 1
+      - path: Armature/lower.005/lower.005_end
+        weight: 1
+      - path: Armature/lower.006
+        weight: 1
+      - path: Armature/lower.006/lower.006_end
+        weight: 1
+      - path: Armature/lower.007
+        weight: 1
+      - path: Armature/lower.007/lower.007_end
+        weight: 1
+      - path: Armature/lower.008
+        weight: 1
+      - path: Armature/lower.008/lower.008_end
+        weight: 1
+      - path: Armature/lower.009
+        weight: 1
+      - path: Armature/lower.009/lower.009_end
+        weight: 1
+      - path: Armature/lower.010
+        weight: 1
+      - path: Armature/lower.010/lower.010_end
+        weight: 1
+      - path: Armature/lower.011
+        weight: 1
+      - path: Armature/lower.011/lower.011_end
+        weight: 1
+      - path: Armature/lower.012
+        weight: 1
+      - path: Armature/lower.012/lower.012_end
+        weight: 1
+      - path: Armature/lower.013
+        weight: 1
+      - path: Armature/lower.013/lower.013_end
+        weight: 1
+      - path: Armature/lower.014
+        weight: 1
+      - path: Armature/lower.014/lower.014_end
+        weight: 1
+      - path: Armature/lower.015
+        weight: 1
+      - path: Armature/lower.015/lower.015_end
+        weight: 1
+      - path: Armature/upper.001
+        weight: 1
+      - path: Armature/upper.001/upper.001_end
+        weight: 1
+      - path: Armature/upper.002
+        weight: 1
+      - path: Armature/upper.002/upper.002_end
+        weight: 1
+      - path: Armature/upper.003
+        weight: 1
+      - path: Armature/upper.003/upper.003_end
+        weight: 1
+      - path: Armature/upper.004
+        weight: 1
+      - path: Armature/upper.004/upper.004_end
+        weight: 1
+      - path: Armature/upper.005
+        weight: 1
+      - path: Armature/upper.005/upper.005_end
+        weight: 1
+      - path: Armature/upper.006
+        weight: 1
+      - path: Armature/upper.006/upper.006_end
+        weight: 1
+      - path: Armature/upper.007
+        weight: 1
+      - path: Armature/upper.007/upper.007_end
+        weight: 1
+      - path: Armature/upper.008
+        weight: 1
+      - path: Armature/upper.008/upper.008_end
+        weight: 1
+      - path: Armature/upper.009
+        weight: 1
+      - path: Armature/upper.009/upper.009_end
+        weight: 1
+      - path: Armature/upper.010
+        weight: 1
+      - path: Armature/upper.010/upper.010_end
+        weight: 1
+      - path: Armature/upper.011
+        weight: 1
+      - path: Armature/upper.011/upper.011_end
+        weight: 1
+      - path: Armature/upper.012
+        weight: 1
+      - path: Armature/upper.012/upper.012_end
+        weight: 1
+      - path: Armature/upper.013
+        weight: 1
+      - path: Armature/upper.013/upper.013_end
+        weight: 1
+      - path: Armature/upper.014
+        weight: 1
+      - path: Armature/upper.014/upper.014_end
+        weight: 1
+      - path: Armature/upper.015
+        weight: 1
+      - path: Armature/upper.015/upper.015_end
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
